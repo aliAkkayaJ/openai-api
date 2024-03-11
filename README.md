@@ -5,6 +5,7 @@
 To run this code use "npm start"
 
 You can change the this area according to your project's purposes. Also if you want long answers you can increase "max_tokens" value like 1000.
+
 <img width="764" alt="Screenshot 2024-03-11 at 10 30 41 PM" src="https://github.com/aliAkkayaJ/openai-api/assets/117384310/79c5a845-7cbb-4f04-936e-6da4e74e3666">
 
 ## POSTMAN EXAMPLES
