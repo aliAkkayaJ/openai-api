@@ -12,7 +12,8 @@ You can change the this area according to your project's purposes. Also if you w
 
 <img width="632" alt="Screenshot 2024-03-11 at 10 23 49 PM" src="https://github.com/aliAkkayaJ/openai-api/assets/117384310/6fa63d9f-4902-40ec-8a2e-877a1e2fa374">
 
-Some half answers:
+## HALF ANSWER
 <img width="632" alt="Screenshot 2024-03-11 at 10 23 17 PM" src="https://github.com/aliAkkayaJ/openai-api/assets/117384310/f52c4574-acfa-4f37-b8c1-158130c138c6">
 
-NOTE: If you can improve this half answer and api. You can help me!
+## Note 
+If you can improve this half answer and api. You can give advice me!
