@@ -5,8 +5,7 @@ require("dotenv").config();
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
-//önceki mesajları verirken önceki mesajları da her isteğinde göndermelisin.
-//role:user ve cevabı- role : asssistant ve cevabı
+
 exports.chatWithGPT3 = async (req, res) => {
   const { prompt } = req.body;
   try {
