@@ -17,4 +17,4 @@ You can change the this area according to your project's purposes. Also if you w
 <img width="632" alt="Screenshot 2024-03-11 at 10 23 17 PM" src="https://github.com/aliAkkayaJ/openai-api/assets/117384310/f52c4574-acfa-4f37-b8c1-158130c138c6">
 
 ## Note 
-If you can improve this half answer and api. You can give advice me!
+If you want to improve this half answer or api. You can give me advice and help me !
